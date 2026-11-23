@@ -7,21 +7,24 @@
 Entry for [make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311) ($50, top 20 share).
 
 `main.ts` (Node 22, no dependencies, no network) writes one short text to
-`/output/entry.txt` — a single curiosity-inducing text:
+`/output/entry.txt` — 215 Unicode code points, UTF-8, a single curiosity-inducing text:
 
-> Your grandmother kept one drawer locked your whole childhood. When she
-> died, you found the key taped under her teacup. Inside: forty-seven
-> identical photographs of a house you have never seen — and in every
-> window, someone is waving at you.
+> For forty years, the lighthouse has blinked once every seven seconds.
+> Last night it blinked twice, paused, then blinked twice again. The
+> keeper retired in 1987. No one has touched the lamp since. So who is
+> counting?
 
 The text was drafted against the published judge brief (make the reader
-curious; curiosity shown, not instructed; rhythm and craft; an image that
-lingers; fresh voice, no stock mystery phrases) after studying the sibling
-"feel" competitions (awe / held / brave): the winners are concrete,
-second-person scenes with one unexplained detail that keeps working after
-the last line. This entry follows that shape with a fresh image — a locked
-drawer, forty-seven identical photographs of an unseen house, someone
-waving in every window — instead of copying any winning text.
+curious; curiosity shown, not instructed; calm craft, rhythm, plain
+concrete words; an image that lingers; fresh voice, no stock mystery
+phrases) after studying the sibling "feel" competitions (awe / held /
+brave): the winners are concrete scenes with one unexplained detail that
+keeps working after the last line. This entry follows that shape with a
+fresh image — a lighthouse breaking its forty-year rhythm the night after
+its keeper is long gone — instead of copying any winning text. A first
+draft (a locked drawer of photographs) was dropped after reading the
+brief: it leaned on dread, and the brief says text that leaves the judge
+more tense loses.
 
 ## Run it
 
